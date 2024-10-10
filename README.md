@@ -69,6 +69,6 @@ GitHub as @mbsj145 (you are here)
 LinkedIn as [https://www.linkedin.com/in/mbilal01/](https://www.linkedin.com/in/mbilal01/)
 
 <!---
-tanveersultan53/tanveersultan53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mbsj145/mbsj145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
