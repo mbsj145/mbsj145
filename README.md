@@ -1,10 +1,11 @@
 - Hi, I’m @mbsj145 (M.Bilal)👋 
-- I'm Full Stack Software Engineer From Pakistan. 🇵🇰
+- I'm Sr. Full Stack Software Engineer
+<!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+--->
 
 **Back-end**
 
@@ -64,7 +65,7 @@ You can find me on:
 <!---
 My website: [https://www.linkedin.com/in/mbilal01/](https://www.linkedin.com/in/mbilal01/)
 --->
-GitHub as @mbsj145 (you are here)
+GitHub as @mbsj145
 
 LinkedIn as [https://www.linkedin.com/in/mbilal01/](https://www.linkedin.com/in/mbilal01/)
 
